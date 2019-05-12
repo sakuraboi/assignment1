@@ -1,0 +1,48 @@
+
+p{
+font-family: Verdana, Arial, Helvatica, sans-serif;
+color: #FF6600;
+border:1px solid #CCCCCC;
+fontsize: 90%
+text-align: center;
+}
+
+blockquote{
+font-family; verdana, helvetica, arial, sans-serif
+background: #999999;
+color:#FFFFFF;
+border: 1px solid #000000;
+font-size: 100%
+}
+body {
+	background-image: url("WahNEDdlGjRZ.gif");
+}
+
+.voorbeeld{
+font-family: Verdana, Arial, Helvetica, sans-setif;
+color: #000000;
+font-size: 140%
+}
+
+p.voorbeeld span{
+background-color: #999999;
+}
+
+h2{
+text-decoration: underline;
+}
+
+.pipa{
+text-decoration: none;
+}
+
+h2, blockquote span, p.voorbeeld{
+font-size: 140%;
+color: #FFFFFF;
+}
+
+div#header{
+background: #CCC url(11-gavin.w710.h473.2x.jpg) top right no-repeat;
+padding: 0 50px 1000px 0 ;
+border: 1px #F60 solid;
+
